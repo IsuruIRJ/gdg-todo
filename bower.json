@@ -1,0 +1,25 @@
+{
+  "name": "gdg-todo",
+  "version": "0.0.0",
+  "authors": [
+    "Malith Senaweera <malithsenaweera@gmail.com>"
+  ],
+  "description": "A simple todo app for SLIIT demo",
+  "main": "main.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.7",
+    "bootstrap": "~3.3.6"
+  }
+}
